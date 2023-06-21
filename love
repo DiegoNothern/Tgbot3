@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+####--------------------------------####
+#--# Author:   by uriid1            #--#
+#--# License:  GNU GPL              #--#
+#--# Telegram: @rp_party            #--#
+#--# Mail:     appdurov@gmail.com   #--#
+####--------------------------------####
+
+# Run
+clear
+cd tg-py-love
+python3 main.py $1 $2
